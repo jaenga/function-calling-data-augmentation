@@ -60,30 +60,16 @@ function calls  examples   checked   format
 ## 📝 Usage Examples
 
 ### Basic Usage
-```python
-from run import main
 
-# Run full pipeline
-main(['--mode', 'all'])
+```bash
+python run.py --mode all
 ```
 
-### Custom Configuration
-```python
-from config import Config
-from augment import AugmentationEngine
+### Export Only
 
-config = Config()
-engine = AugmentationEngine(config)
-engine.augment_single_turn_data()
+```bash
+python run.py --mode export --format qwen
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## 📄 License
 
