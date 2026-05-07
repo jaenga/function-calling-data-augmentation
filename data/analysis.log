@@ -1,0 +1,10 @@
+2026-05-07 07:34:30,972 - INFO - 🚀 Starting Analysis Pipeline
+2026-05-07 07:34:30,974 - INFO - Loaded 394 validated samples from data/validated_single.csv
+2026-05-07 07:34:30,974 - INFO - Loaded 8 rejected samples from data/rejected_single.csv
+2026-05-07 07:34:30,975 - INFO - Loaded 402 generated samples from data/generated_single.csv
+2026-05-07 07:34:30,975 - INFO - 
+Total validated: 394
+2026-05-07 07:34:30,976 - INFO - Total rejected: 8
+2026-05-07 07:34:30,976 - INFO - Total generated: 402
+2026-05-07 07:34:30,982 - INFO - ✅ Report saved to output/analysis.log
+2026-05-07 07:34:30,982 - INFO - ✨ Analysis completed!

@@ -1,0 +1,9 @@
+id,user_query,function_name,arguments,validator_pred,reject_stage
+98,"아파서 못 했어, 그거 내줘",submit_mission_result,"{""result_type"": ""fail""}","{""function_name"": ""request_mission_adjustment"", ""arguments"": {""adjustment_type"": ""change""}}",1st_validation
+99,오늘은 그냥 패스할게,submit_mission_result,"{""result_type"": ""fail""}","{""function_name"": ""cancel_mission_action"", ""arguments"": {""cancel_type"": ""latest""}}",1st_validation
+104,"아, 오늘 그냥 넘 힘들어",submit_mission_result,"{""result_type"": ""fail""}","{""function_name"": ""get_mission_info"", ""arguments"": {""query_type"": ""today""}}",1st_validation
+106,오늘은 시간 없어서 걍 패스할게,submit_mission_result,"{""result_type"": ""fail""}","{""function_name"": ""submit_mission_result"", ""arguments"": {""result_type"": ""fail""}}",2nd_validation
+108,너무 어려워서 못 했어ㅠㅠ,submit_mission_result,"{""result_type"": ""fail""}","{""function_name"": ""submit_mission_result"", ""arguments"": {""result_type"": ""fail""}}",2nd_validation
+138,오늘 할 일 리스트 좀 보여줘,get_mission_info,"{""query_type"": ""today""}","{""function_name"": ""get_user_history"", ""arguments"": {""query_type"": ""daily_summary"", ""target_date"": ""today""}}",1st_validation
+203,미션 좀 쉽게 바꿔줄래?,request_mission_adjustment,"{""adjustment_type"": ""change""}","{""function_name"": ""request_mission_adjustment"", ""arguments"": {""adjustment_type"": ""easier""}}",1st_validation
+382,이주 운동한 거 좀 보여줄 수 있어요?,get_user_history,"{""query_type"": ""weekly_summary""}","{""function_name"": ""get_user_history"", ""arguments"": {""query_type"": ""monthly_summary"", ""target_period"": ""this_month""}}",1st_validation

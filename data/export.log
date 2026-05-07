@@ -1,0 +1,36 @@
+2026-05-06 20:09:08,208 - INFO - 🚀 Starting Export Pipeline
+2026-05-06 20:09:08,209 - INFO - 
+================================================================================
+2026-05-06 20:09:08,209 - INFO - EXPORTING TO QWEN FORMAT
+2026-05-06 20:09:08,209 - INFO - ================================================================================
+2026-05-06 20:09:08,210 - WARNING - Skipping empty validated file: data/validated_single.csv
+2026-05-06 20:09:08,210 - WARNING - File not found: data/validated_multi.csv
+2026-05-06 20:09:08,211 - ERROR - No validated data found!
+2026-05-06 20:09:08,211 - ERROR - No data to export!
+2026-05-06 20:09:08,212 - INFO - 
+✨ Export pipeline completed!
+2026-05-07 07:34:31,670 - INFO - 🚀 Starting Export Pipeline
+2026-05-07 07:34:31,670 - INFO - 
+================================================================================
+2026-05-07 07:34:31,670 - INFO - EXPORTING TO QWEN FORMAT
+2026-05-07 07:34:31,671 - INFO - ================================================================================
+2026-05-07 07:34:31,672 - INFO - Loaded 394 samples from data/validated_single.csv
+2026-05-07 07:34:31,672 - WARNING - File not found: data/validated_multi.csv
+2026-05-07 07:34:31,673 - INFO - Total validated samples: 394
+2026-05-07 07:34:31,674 - INFO - Split data:
+2026-05-07 07:34:31,674 - INFO -   Train: 315 (79.9%)
+2026-05-07 07:34:31,675 - INFO -   Valid: 39 (9.9%)
+2026-05-07 07:34:31,675 - INFO -   Test:  40 (10.2%)
+2026-05-07 07:34:31,675 - INFO - 
+Exporting train set (315 samples)...
+2026-05-07 07:34:31,687 - INFO -   ✓ Saved to output/train.jsonl
+2026-05-07 07:34:31,687 - INFO - 
+Exporting valid set (39 samples)...
+2026-05-07 07:34:31,689 - INFO -   ✓ Saved to output/valid.jsonl
+2026-05-07 07:34:31,690 - INFO - 
+Exporting test set (40 samples)...
+2026-05-07 07:34:31,691 - INFO -   ✓ Saved to output/test.jsonl
+2026-05-07 07:34:31,692 - INFO - 
+✅ Qwen format export completed!
+2026-05-07 07:34:31,692 - INFO - 
+✨ Export pipeline completed!

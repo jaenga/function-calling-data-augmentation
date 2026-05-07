@@ -1,0 +1,395 @@
+id,user_query,function_name,arguments,ambiguous
+60,오늘 미션 다 했어ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}",
+61,미션 완료했으니 제출할게!,submit_mission_result,"{""result_type"": ""success""}",
+62,완전 잘 해냈다!!,submit_mission_result,"{""result_type"": ""success""}",
+63,다 했으니까 인정해줘,submit_mission_result,"{""result_type"": ""success""}",
+64,너무 재밌어서 쉽게 끝났어ㅋㅋ,submit_mission_result,"{""result_type"": ""success""}","The utterance expresses enjoyment but does not explicitly convey a clear mission result, leaving room for interpretation."
+65,이번엔 정말 다 해냈어!,submit_mission_result,"{""result_type"": ""success""}",
+66,오늘도 성공적으로 끝냈당,submit_mission_result,"{""result_type"": ""success""}",
+67,이번 주 미션 다 했어 ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}",
+68,다 해냈으니 제출할게요!,submit_mission_result,"{""result_type"": ""success""}",
+69,어렵지 않아서 금방 끝났어!,submit_mission_result,"{""result_type"": ""success""}",
+70,다 했어 ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}","The utterance '다 했어 ㅎㅎ' indicates completion, which aligns with success but lacks explicit clarity on the result type."
+71,미션 완벽히 끝냈음!!,submit_mission_result,"{""result_type"": ""success""}",
+72,오늘도 성공적으로 다 해냈어!,submit_mission_result,"{""result_type"": ""success""}",
+73,이번엔 다 끝냈다구요!,submit_mission_result,"{""result_type"": ""success""}",
+74,완전 다 했어요ㅋ,submit_mission_result,"{""result_type"": ""success""}",
+75,이번 미션 다 함!!,submit_mission_result,"{""result_type"": ""success""}",
+76,아주 잘했음ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}",The utterance suggests a positive outcome but does not explicitly confirm the mission result as 'success'; could also imply other interpretations.
+77,미션 완수했어요!,submit_mission_result,"{""result_type"": ""success""}",
+78,끝까지 다 해냈어!!,submit_mission_result,"{""result_type"": ""success""}",
+79,할 거 다 해서 제출할게요!,submit_mission_result,"{""result_type"": ""success""}",
+80,완료했어요!,submit_mission_result,"{""result_type"": ""success""}",
+81,미션 다 해냈다!!,submit_mission_result,"{""result_type"": ""success""}",
+82,오늘 다 끝냈어ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}","The phrase '오늘 다 끝냈어ㅎㅎ' suggests completion, which could imply a 'success' result for submitting a mission. However, it does not explicitly state the nature of the result or clearly indicate that it is specifically about submitting a mission result."
+83,할 거 다 함ㅋ,submit_mission_result,"{""result_type"": ""success""}",manual_promoted_from_rejected
+84,완벽하게 했어요!,submit_mission_result,"{""result_type"": ""success""}",
+85,모든 미션을 완료했어!,submit_mission_result,"{""result_type"": ""success""}",
+86,"쌤, 다 했어요!",submit_mission_result,"{""result_type"": ""success""}",
+87,이번에 진짜 다 했어!!,submit_mission_result,"{""result_type"": ""success""}",
+88,미션 완수 완료!!,submit_mission_result,"{""result_type"": ""success""}",
+89,완전 다 해냈어!,submit_mission_result,"{""result_type"": ""success""}",
+90,다 했어!!,submit_mission_result,"{""result_type"": ""success""}","The utterance suggests completion but lacks specifics about the success of the mission, creating potential ambiguity."
+91,완전 끝냈다 ㅎㅎ,submit_mission_result,"{""result_type"": ""success""}",
+92,이번에 진짜 다 해냈어!!,submit_mission_result,"{""result_type"": ""success""}",
+93,오늘 미션 다 하지 못했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}",
+94,미션 반만 했거든ㅠㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates a partial completion of the mission, which could imply either failure or an incomplete submission, leading to ambiguity in the result type."
+95,"아직 다 못 했어, 패스할게",submit_mission_result,"{""result_type"": ""fail""}","The user mentions they could not complete something ('아직 다 못 했어') and indicates a desire to pass ('패스할게'), which doesn't clearly align with submitting a failure result."
+96,너무 바빠서 오늘은 못 한듯,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates a busy schedule but does not explicitly mention failing a task, leading to ambiguity in its relation to 'submit_mission_result'."
+97,이번 미션은 실패야ㅠ,submit_mission_result,"{""result_type"": ""fail""}",
+100,한 시간 해봤는데 다 못 했어,submit_mission_result,"{""result_type"": ""fail""}",The utterance indicates a failure but does not explicitly confirm the intent to submit a mission result.
+101,"완전 못 했어, 다음에 할게",submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses failure but does not explicitly confirm the intention to submit the result, leaving room for interpretation."
+102,거의 다 했는데 마무리를 못 했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}","The user indicates a sense of incompleteness ('거의 다 했는데 마무리를 못 했어'), which suggests failure to complete a task, aligning with submitting a failed result, but it's not explicitly clear that they are submitting a mission result."
+103,오늘은 못 했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}",The utterance expresses a failure but lacks explicit confirmation of the intent to submit a mission result.
+105,미션 반만 했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses that the mission was only partially completed, which could imply a 'fail' but does not clearly denote it. The emoticon also introduces emotional nuance that could suggest a different context."
+107,거의 다 했는데 마지막에 실패했어,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates failure, but it doesn't explicitly mention submitting a mission result, leaving room for interpretation."
+109,"완전 안 했어, 다음에 할게",submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates a failure but doesn't explicitly state the intention to submit a mission result, leading to possible interpretations."
+110,오늘 학원 때문애서 미션 못 함,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses a failure to complete a mission due to a reason, but does not explicitly confirm the intention to submit a mission result as 'fail'."
+111,조금 했는데 다는 못 했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates some completion ('조금 했는데'), but it's unclear if the user specifically intended to report a failure or wanted to express a different state."
+112,미션 실패! 다음에 더 잘 해볼게,submit_mission_result,"{""result_type"": ""fail""}",
+113,오늘 미션 못 했어ㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance implies a failure to complete a mission, but does not explicitly state the intention to submit a mission result."
+114,아무것도 못 해서 미안해요,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses an apology for being unable to accomplish something, which suggests a failure, but it doesn't explicitly indicate calling a mission result submission."
+115,아파서 오늘은 패스할게ㅠㅠ,submit_mission_result,"{""result_type"": ""fail""}",The phrase indicates not participating due to illness but does not explicitly confirm the submission of a failed result.
+116,진짜 아무것도 못 해서 슬퍼,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses sadness about not being able to achieve something, which could imply failure but does not explicitly mention 'submitting mission result' or directly link to the function call."
+117,시간이 없어서 미션 실패했어,submit_mission_result,"{""result_type"": ""fail""}",
+118,오늘 학교 숙제도 많아서 못 했어,submit_mission_result,"{""result_type"": ""fail""}",The utterance indicates a lack of completion due to homework but does not explicitly connect to submitting a failure result.
+119,할 수 있을 줄 알았는데 못 함ㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses disappointment about not being able to accomplish something, which aligns with a failure result, but it lacks explicit clarity about the mission result context."
+120,조금 했는데 다는 못 했어ㅠㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates a partial effort but does not explicitly confirm a 'fail' result type, leaving room for interpretation."
+121,미션 못 해서 골치 아파,submit_mission_result,"{""result_type"": ""fail""}","The utterance expresses frustration about failing a mission, but it does not explicitly indicate a desire to submit a mission result, leaving room for interpretation."
+122,오늘은 그냥 포기할래요,submit_mission_result,"{""result_type"": ""fail""}",The phrase '그냥 포기할래요' suggests giving up but doesn't explicitly confirm the intention to report a failure in a mission context.
+123,오늘 미션 반만 했어ㅠㅠ,submit_mission_result,"{""result_type"": ""fail""}","The utterance indicates that the user partially completed a mission, which could imply different results (e.g., 'incomplete' or 'failed'), leading to potential ambiguity in the interpretation of the function call."
+124,오늘 미션 뭐야?,get_mission_info,"{""query_type"": ""today""}",
+125,오늘 해야 할 거 있나요?,get_mission_info,"{""query_type"": ""today""}",
+126,오늘 할 일 리스트 좀 보여줘!,get_mission_info,"{""query_type"": ""today""}",
+127,오늘은 뭘 해야해?,get_mission_info,"{""query_type"": ""today""}","The user is asking what to do today, which could imply various activities or tasks, not necessarily linked to a specific function or argument."
+128,오늘 미션 확인해볼래,get_mission_info,"{""query_type"": ""today""}",
+129,오늘 해야 할 거 알려줘!,get_mission_info,"{""query_type"": ""today""}",
+130,오늘의 미션이 궁금해요!,get_mission_info,"{""query_type"": ""today""}",
+131,오늘은 내가 뭘 해야 해?,get_mission_info,"{""query_type"": ""today""}",
+132,오늘의 미션이 뭐인지 알고 싶어!,get_mission_info,"{""query_type"": ""today""}",
+133,오늘 해야 할 일 좀 알려줄래?,get_mission_info,"{""query_type"": ""today""}",
+134,오늘 미션 뭐야?,get_mission_info,"{""query_type"": ""today""}",
+135,오늘 해야 할 일 알려줘!,get_mission_info,"{""query_type"": ""today""}",
+136,오늘의 미션이 뭔지 궁금해!,get_mission_info,"{""query_type"": ""today""}",The utterance asks about 'today's mission' but does not explicitly confirm the intent to query today's mission specifically; it could imply curiosity about other missions as well.
+137,오늘 뭐 해야 하는지 말해줄 수 있어?,get_mission_info,"{""query_type"": ""today""}",
+139,오늘 내가 뭘 해야 해?,get_mission_info,"{""query_type"": ""today""}",
+140,오늘 미션 확인하고 싶어!,get_mission_info,"{""query_type"": ""today""}",
+141,오늘의 해야 할 일 알려주면 좋겠어!,get_mission_info,"{""query_type"": ""today""}",
+142,오늘 미션은 뭐지?,get_mission_info,"{""query_type"": ""today""}",
+143,오늘은 어떤 미션이 있어?,get_mission_info,"{""query_type"": ""today""}",
+144,오늘의 미션 뭐야?,get_mission_info,"{""query_type"": ""today""}",
+145,오늘 할 일 좀 알려줘!,get_mission_info,"{""query_type"": ""today""}",
+146,오늘 뭘 해야 되는지 궁금해,get_mission_info,"{""query_type"": ""today""}","The utterance indicates curiosity about what to do today, but it does not explicitly mention seeking a 'mission', leading to some ambiguity in the interpretation."
+147,오늘 미션 내용이 뭐임?,get_mission_info,"{""query_type"": ""today""}",
+148,오늘 미션이 뭐예요?,get_mission_info,"{""query_type"": ""today""}",
+149,오늘 해야 할 거 좀 알려줘요!,get_mission_info,"{""query_type"": ""today""}",
+150,오늘 어떤 거 해요?,get_mission_info,"{""query_type"": ""today""}","The phrase '오늘 어떤 거 해요?' could refer to various activities or missions, making it unclear if it specifically refers to getting today's mission info."
+151,미션 언제까지 해야 돼?,get_mission_info,"{""query_type"": ""deadline""}",
+152,마감일이 언제인지 알려줘,get_mission_info,"{""query_type"": ""deadline""}",
+153,이거 언제까지 내야 하는 거야?,get_mission_info,"{""query_type"": ""deadline""}",
+154,미션 제출 기한 뭔지 궁금해!,get_mission_info,"{""query_type"": ""deadline""}",
+155,내일 제출인데 마감 언제인지 알고 싶어,get_mission_info,"{""query_type"": ""deadline""}",
+156,마감일이 몇 일이었지?,get_mission_info,"{""query_type"": ""deadline""}",The utterance asks about a deadline but does not clearly indicate that it wants to retrieve mission information specifically.
+157,미션 제때 내고 싶은데 기한 좀 알려줘,get_mission_info,"{""query_type"": ""deadline""}",
+158,언제까지 제출해야 하는지 해줘,get_mission_info,"{""query_type"": ""deadline""}",
+159,마감 언제인지 좀 알려줄래?,get_mission_info,"{""query_type"": ""deadline""}",
+160,이거 내야 하는 기한이 언제야?,get_mission_info,"{""query_type"": ""deadline""}",
+161,이거 언제까지 내야 돼?,get_mission_info,"{""query_type"": ""deadline""}",
+162,마감 기한 좀 알려줘,get_mission_info,"{""query_type"": ""deadline""}",
+163,제출 마감이 언제야?,get_mission_info,"{""query_type"": ""deadline""}",
+164,이거 내는 거 기한이 궁금해,get_mission_info,"{""query_type"": ""deadline""}",
+165,언제까지 해야 하는지 알아?,get_mission_info,"{""query_type"": ""deadline""}",
+166,기한이 언제인지 좀 알려줄래?,get_mission_info,"{""query_type"": ""deadline""}",
+167,제출해야 하는 날짜가 언제야?,get_mission_info,"{""query_type"": ""deadline""}",
+168,내야 하는 데드라인 언제인지 알려줘,get_mission_info,"{""query_type"": ""deadline""}",
+169,이거 마감 언제인지 좀 말해줘,get_mission_info,"{""query_type"": ""deadline""}",
+170,제출 기한이 몇 일 남았는지 알고 싶어,get_mission_info,"{""query_type"": ""deadline""}",
+171,미션 내는 마감일이 언제인지 알고 싶어,get_mission_info,"{""query_type"": ""deadline""}",
+172,제출 기한이 몇 일 남았는지 좀 알려줘,get_mission_info,"{""query_type"": ""deadline""}",
+173,마감 언제까지인지 궁금해서ㅠ,get_mission_info,"{""query_type"": ""deadline""}",The utterance indicates curiosity about a deadline but does not explicitly state a request for mission information.
+174,이거 언제까지 해야 되는지 가르쳐줘,get_mission_info,"{""query_type"": ""deadline""}",
+175,규칙 좀 알려줘,get_mission_info,"{""query_type"": ""general_rule""}",
+176,이 미션 규칙이 뭐야?,get_mission_info,"{""query_type"": ""general_rule""}","The utterance is somewhat vague and could refer to other aspects of the mission, not just the 'general_rule'."
+177,어떤 규칙인지 궁금해요ㅎㅎ,get_mission_info,"{""query_type"": ""general_rule""}",The utterance expresses curiosity but does not explicitly indicate a request for 'general_rule' mission information; it could refer to various rules.
+178,미션 하는 데 규칙이 필요해,get_mission_info,"{""query_type"": ""general_rule""}",
+179,이거 할 때 규칙 좀 알려줄 수 있어?,get_mission_info,"{""query_type"": ""general_rule""}",
+180,규칙 알려주면 좋겠어!,get_mission_info,"{""query_type"": ""general_rule""}",The phrase '규칙 알려주면 좋겠어' implies a desire for rules but does not explicitly indicate the need for general rules or specific information related to a mission.
+181,미션의 규칙은 뭐임?,get_mission_info,"{""query_type"": ""general_rule""}",
+182,이거 어떻게 하는 건지 규칙이 필요해,get_mission_info,"{""query_type"": ""general_rule""}","The utterance expresses a need for rules, but it may lack specificity about the context or type of mission."
+183,미션에 대한 규칙 설명해줄래?,get_mission_info,"{""query_type"": ""general_rule""}",
+184,응! 규칙이 궁금해요~,get_mission_info,"{""query_type"": ""general_rule""}",
+185,미션 하는 규칙 좀 알려줘,get_mission_info,"{""query_type"": ""general_rule""}",
+186,이번 미션 규칙이 뭐야?,get_mission_info,"{""query_type"": ""general_rule""}",
+187,이거 어떻게 하는 건지 규칙 궁금해,get_mission_info,"{""query_type"": ""general_rule""}",The utterance expresses curiosity about rules but does not explicitly mention a desire for mission information.
+188,규칙 한 번 설명해줄래?,get_mission_info,"{""query_type"": ""general_rule""}","The utterance requests an explanation of rules, which could relate to various types of information, not explicitly indicating a focus on general rules."
+189,미션에 대한 규칙이 필요해,get_mission_info,"{""query_type"": ""general_rule""}","The phrase '미션에 대한 규칙이 필요해' indicates a need for rules regarding a mission, but it does not explicitly state that the user is seeking general rules, which may lead to multiple interpretations."
+190,어떻게 해야 되는지 규칙이 알고 싶어,get_mission_info,"{""query_type"": ""general_rule""}",
+191,이번 미션 규칙이 뭔지 알려줘,get_mission_info,"{""query_type"": ""general_rule""}",
+192,규칙이 너무 헷갈려서 다시 설명해줄래?,get_mission_info,"{""query_type"": ""general_rule""}",manual_promoted_from_rejected
+193,미션 진행하려고 하는데 규칙이 궁금해!,get_mission_info,"{""query_type"": ""general_rule""}","The utterance expresses curiosity about rules but doesn't explicitly connect to the term 'general_rule', leading to some ambiguity."
+194,이 미션은 어떤 규칙으로 해야 해?,get_mission_info,"{""query_type"": ""general_rule""}",
+195,이번 미션 규칙 좀 알려줘요,get_mission_info,"{""query_type"": ""general_rule""}",
+196,미션 좀 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+197,이거 다른 걸로 해줬으면 좋겠어,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance expresses a desire for a change, but it doesn't specify what type of change is requested, leaving room for multiple interpretations."
+198,그냥 다른 미션으로 해도 돼?,request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '그냥 다른 미션으로 해도 돼?' suggests a desire to change the mission, but it does not explicitly confirm that the adjustment type is specifically a 'change'."
+199,이건 진짜 아닌 거 같아ㅠ 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance expresses dissatisfaction and a desire for a change, but it lacks specificity about what type of adjustment is being requested."
+200,미션 내용 변경해줄 수 있어?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+201,다른 걸로 부탁해,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance '다른 걸로 부탁해' ('Please ask for something else') indicates a desire for change, but does not specify what should be changed or if it pertains specifically to a mission adjustment."
+202,이거 너무 귀찮은데 다른 걸로 해줘,request_mission_adjustment,"{""adjustment_type"": ""change""}",The utterance expresses a desire for change but does not specify what kind of adjustment is needed.
+204,다른 미션으로 바꾸는 건 어때?,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance suggests a change but does not explicitly clarify the nature of the adjustment, leading to ambiguity about the specific adjustment type."
+205,지금 미션 좀 바꿔줄 수 있어?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+206,미션 좀 바꿔줄 수 있어?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+207,이거 다른 걸로 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance suggests a change but lacks specificity on what exactly should be changed, which may lead to different interpretations."
+208,지금 미션 수정해줄래?,request_mission_adjustment,"{""adjustment_type"": ""change""}","The user requests a mission adjustment, which could imply different types of adjustments (e.g., addition, deletion, or change). The specific adjustment type 'change' is not explicitly stated."
+209,미션 변경할 수 있어?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+210,좀 다른 미션으로 해줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '좀 다른 미션으로 해줘' suggests a desire for a different mission but does not specify that the adjustment should be a 'change', leaving room for interpretation."
+211,이거 안 맞아서 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""change""}",The utterance suggests a change but does not specify the type of adjustment clearly.
+212,지금 하는 거 말고 다른 걸로 해볼래?,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance suggests a desire for change but doesn't explicitly confirm it pertains to a 'mission adjustment' or specify it as 'change', leading to potential interpretation issues."
+213,미션 좀 다르게 해줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance indicates a desire for a mission change but does not specify the type of adjustment clearly, leaving room for interpretation."
+214,지금 미션 바꾸면 안 돼?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+215,이거 말고 새로운 미션 줘,request_mission_adjustment,"{""adjustment_type"": ""change""}",The utterance suggests a desire for a new mission but does not clearly specify that the adjustment type is a 'change'; it could imply other adjustments as well.
+216,미션 좀 바꿔줄래?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+217,이거 말고 다른 걸로 해줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '이거 말고 다른 걸로 해줘' indicates a request for change, but it does not specify what kind of change is being requested, leading to ambiguity in the adjustment type."
+218,지금 미션을 다른 거로 바꾸면 안 돼?,request_mission_adjustment,"{""adjustment_type"": ""change""}",
+219,완전 다른 미션으로 해줘,request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '완전 다른 미션으로 해줘' suggests a change, but it doesn't explicitly confirm the type of adjustment or that it specifically refers to a request for a mission adjustment."
+220,이거 너무 별로라서 다른 걸로 해줬으면 해,request_mission_adjustment,"{""adjustment_type"": ""change""}",The utterance expresses a desire for a change but does not explicitly specify that it is requesting a mission adjustment.
+221,방금 한 미션 대신 다른 거 주면 좋겠어,request_mission_adjustment,"{""adjustment_type"": ""change""}","The utterance indicates a desire for a different mission, but it does not specifically clarify that the adjustment type is solely a change, which could lead to multiple interpretations."
+222,"이번 미션은 패스하고 싶어, 다른 거 해줘",request_mission_adjustment,"{""adjustment_type"": ""change""}","The user expresses a desire to pass on the current mission, but does not explicitly state a request to change the mission type, leading to potential ambiguity in the interpretation."
+223,"미션 바꿔줘, 좀 다른 걸로",request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '좀 다른 걸로' could imply a preference for a different type of adjustment or a different specific change, which introduces ambiguity in the exact nature of the adjustment."
+224,"이거는 너무 어렵고, 다른 미션으로 해줘",request_mission_adjustment,"{""adjustment_type"": ""change""}",manual_promoted_from_rejected
+225,미션 조금 다르게 해주면 안 돼?,request_mission_adjustment,"{""adjustment_type"": ""change""}","The phrase '조금 다르게 해주면 안 돼?' does not specify how the mission should be changed, leading to uncertainty about the specific adjustment type."
+226,이거 너무 힘들어ㅠ 좀 쉽게 해줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+227,"너무 어려워요, 난이도 낮춰줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+228,"쌤 이 미션 진짜 어렵다, 조금만 쉽게 해주세요",request_mission_adjustment,"{""adjustment_type"": ""easier""}","The utterance expresses a need for an adjustment but does not explicitly mention 'easier', making the specific adjustment type ambiguous."
+229,"미션이 너무 빡세, 난이도 좀 낮춰줬음 좋겠어",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+230,이거 너무 힘든 것 같아서 쉽게 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+231,"완전 어렵네, 좀 쉬운 걸로 해줘!",request_mission_adjustment,"{""adjustment_type"": ""easier""}","The utterance expresses a desire for a simpler task but does not explicitly mention 'easier,' leaving room for interpretation."
+232,이 미션 좀 더 쉽게 해줄 수 있냐?,request_mission_adjustment,"{""adjustment_type"": ""easier""}",The phrase '좀 더 쉽게 해줄 수 있냐?' could imply a general request for ease rather than explicitly specifying an adjustment type.
+233,"난이도 낮춰주면 좋겠어요, 진짜 힘들어",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+234,이거 너무 어려워서 못 하겠어ㅠㅠ 쉽게 해줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}","The user expresses difficulty and a desire for an easier task, but does not explicitly mention 'adjustment_type' as 'easier', which could lead to different interpretations."
+235,조금만 쉬운 걸로 바꿔줘!!,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+236,이 미션 너무 어려워서 좀 쉽게 해줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+237,"이번 미션 진짜 힘든데, 난이도 낮춰줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+238,이거 완전 빡세서 나 못 하겠어ㅠ 나 좀 쉽게 해줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+239,"미션이 좀 과한 것 같아, 쉽게 바꿔줄래?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+240,"어제랑 비교해서 오늘 미션 너무 어려움, 좀 쉽게 해줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+241,이거 너무 힘들어ㅠㅠ 난이도 좀 낮춰줬으면 해,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+242,"오늘 미션 진짜 빡세, 그냥 조금 쉽게 해줘!",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+243,"이 미션은 좀 쉽지 않아서, 쉽게 바꿔줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+244,이거 엄청 어려워서 힘들어ㅠ 좀 쉽게 해줬으면 좋겠어,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+245,"미션이 너무 힘들어서 잘 못 하겠어, 쉽게 해줘!!",request_mission_adjustment,"{""adjustment_type"": ""easier""}","The utterance expresses a desire for easier missions but does not clearly specify that the user wants an adjustment to be made, leaving room for interpretation."
+246,이 미션 진짜 너무 어려워ㅠ 쉽게 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+247,"아 이거 좀 힘든데, 난이도 낮춰줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+248,"너무 빡세서 못 하겠어, 좀 쉽게 해줬으면 해",request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+249,오늘 미션 너무 어려워서 힘들어ㅠㅠ 낮춰줄래?,request_mission_adjustment,"{""adjustment_type"": ""easier""}","The user expresses difficulty with the mission, which suggests a request for adjustment, but does not explicitly state that they want it to be 'easier', leaving room for interpretation."
+250,이게 뭐야 진짜! 좀 쉽게 해주면 안 돼?,request_mission_adjustment,"{""adjustment_type"": ""easier""}","The utterance expresses frustration and a desire for simplicity, but doesn't explicitly mention 'easier', making the intended adjustment type somewhat unclear."
+251,"미션이 좀 넘 어려워, 변경 좀 해줘",request_mission_adjustment,"{""adjustment_type"": ""easier""}","The user expresses the need for a change due to difficulty, but does not explicitly specify 'easier', leaving room for interpretation."
+252,이거 진짜 어렵다ㅠㅠ 쉽게 해주세요!,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+253,난이도 좀 쉽게 해주면 좋겠어요 ㅎㅎ,request_mission_adjustment,"{""adjustment_type"": ""easier""}",
+254,이제 좀 어려운 거 해줬으면 좋겠어,request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+255,미션이 너무 쉽잖아ㅠ 더 힘든 걸로 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+256,"이거 완전 쉬운데, 난이도 좀 올려줘요",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+257,"너무 쉬운 것 같아, 더 어려운 거 줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+258,"이 미션은 너무 간단해, 좀 더 힘들게 해줄래",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+259,이거 그냥 해도 되겠어? 더 어려운 걸로 바꿔줘,request_mission_adjustment,"{""adjustment_type"": ""harder""}",manual_promoted_from_rejected
+260,지금 하는 거 너무 쉽다 나 좀 더 힘든 거 해보고 싶어,request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user's desire for something harder could imply a range of adjustments, not strictly limited to 'harder'."
+261,"미션이 너무 쉽다, 더 어렵게 조정해 줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+262,"난이도 좀 높여줘, 이거는 진짜 너무 쉬워",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+263,"이거 완전 패스할 수 있을 것 같아, 난이도 올려줘!",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+264,이거 너무 쉬운 거 아니에요? 난이도 좀 올려줘,request_mission_adjustment,"{""adjustment_type"": ""harder""}",manual_promoted_from_rejected
+265,더 힘든 미션으로 바꿔줄 수 있어요?,request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+266,"미션이 진짜 쉬워요, 좀 어렵게 해줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user expresses that the mission is easy and requests for it to be made harder, but the phrasing could also imply a desire for different changes or adjustments."
+267,아 이거 너무 쉽게 할 수 있을 것 같아서 난이도 높여줘,request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+268,"지금 하는 미션 완전 쉽다, 더 어렵게 해주세요!",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+269,"너무 쉬운 것 같아, 난이도 올려주면 좋겠어",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+270,"이 미션 완전 쉬운데, 더 어려운 걸로 해주세요",request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user is asking for a more difficult mission, but the term '더 어려운 걸로 해주세요' could be interpreted in various ways, such as asking for different types of missions or adjustments, which may not specifically align with requesting a harder mission."
+271,"이번 미션은 너무 쉽게 하겠어요, 난이도 높여줘요",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+272,"이거는 다 할 수 있을 것 같아, 좀 더 어려운 걸로 바꿔줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user expresses a desire for a more challenging task, but does not explicitly mention the adjustment type or indicate that they want it to be 'harder'."
+273,"미션 난이도 좀 올려줘, 지금은 너무 쉬워서 힘들 것 같아",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+274,"이 미션 진짜 너무 쉬워, 난이도 좀 높여줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+275,"지금 미션은 완전 쉬워요, 좀 더 어렵게 해줬음 좋겠어",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+276,미션 난이도 올려줄 수 있어? 지금 너무 쉽단 말이야,request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+277,"이건 다 할 수 있을 것 같아, 더 어려운 걸로 바꿔줘요",request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user expresses a desire for a more challenging task, but the exact nature of '더 어려운 걸로' could imply different types of adjustments, not just 'harder'."
+278,"너무 쉽게 나와서 힘들다, 난이도 좀 올려줄래?",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+279,"이거는 내가 다 할 수 있는 거라서, 제발 더 어렵게 해줘",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+280,"미션이 너무 쉬운데, 난이도 좀 높여줄 수 있어?",request_mission_adjustment,"{""adjustment_type"": ""harder""}",
+281,"지금 해보니까 생각보다 쉬워, 좀 더 어렵게 해줬으면 해",request_mission_adjustment,"{""adjustment_type"": ""harder""}","The user expresses a desire for a more challenging task, but the phrase '좀 더 어렵게 해줬으면 해' could also imply a request for different types of adjustments, not strictly limited to 'harder'."
+282,달리기 대신 자전거 타면 해도 돼?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance suggests a desire to confirm if biking is an acceptable alternative to running, but it doesn't explicitly mention 'behavior' as the context for equivalency."
+283,점프 대신 줄넘기로 해도 되냐고!,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance implies a question about whether skipping rope is an equivalent activity to jumping, which suggests a check on activity equivalency, but it does not explicitly confirm the intention to check the specific `behavior` equivalency type."
+284,자전거 타는 것도 운동으로 인정해주려나,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",manual_promoted_from_rejected
+285,하늘하늘 뛰는 대신에 줄넘기 해도 괜찮아?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance asks about substituting an activity, which is somewhat related to behavior but does not clearly express a comparison of mission equivalency."
+286,어제는 스트레칭 했는데 오늘은 자전거 타도 되나?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user discusses stretching and biking, but it’s unclear if they are specifically asking about equivalency in behaviors."
+287,런닝 대신에 스케이트보드 타도 될까?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user asks if skateboarding is acceptable instead of running, but it's unclear how this relates to 'behavior' specifically."
+288,조깅 말고 다른 걸로 해도 이거랑 같지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance implies a comparison of activities but doesn't clearly state that it's asking about 'behavior' equivalency.
+289,자전거 타는 거 운동으로 친다면 좋겠지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance suggests a positive opinion on cycling as exercise, but does not explicitly state a clear intention to check equivalency of actions."
+290,줄넘기 할 때도 그냥 완료로 봐줘?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance implies a request for confirmation regarding skipping a task (jumprope) but does not explicitly confirm or demand a specific behavior equivalency.
+291,다른 운동으로 바꿔도 괜찮지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance suggests a change in exercise but does not explicitly confirm the type of equivalency required.
+292,줄넘기 대신 다른 운동 하면 안 돼?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user is inquiring if they can substitute jump rope with another exercise, which does align with checking for behavior equivalency, but the phrasing doesn't explicitly confirm the intention to ask about equivalency."
+293,자전거 타는 거로 바꿔도 괜찮지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user is suggesting a change to cycling, but the intent towards specifically checking mission equivalency with a behavior type is not explicitly clear."
+294,라인댄스 하는 거랑 운동 동일하게 봐줘?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The phrase '라인댄스 하는 거랑 운동 동일하게 봐줘?' could imply a general query about equivalency, which may not specifically indicate the intended function or arguments related to 'behavior'."
+295,이거 운동 대신 다른 거 해도 되는 거야?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The phrase does not explicitly mention 'behavior' or the need for equivalency in exercise.
+296,헬스 대신 스트레칭 해도 되나요?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user is asking if stretching is an acceptable alternative to exercising, which is related to behavior but does not explicitly confirm the intention to check for equivalency, leaving room for interpretation."
+297,줄넘기로 대신 해도 남는 거야?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance suggests a behavior equivalency, but it is unclear if '줄넘기로 대신 해도' precisely communicates the specific type of behavior intended for the function."
+298,이거 킥복싱으로 바꿔도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance implies a desire to change an activity to kickboxing, but it does not specify equivalency in terms of behavior."
+299,다른 운동으로 해도 미션 인정해주는 거지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance suggests a question about mission equivalency, but it does not explicitly confirm the 'behavior' type, leaving room for interpretation."
+300,배드민턴 하면 대체 가능해?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance inquiring about the equivalency of playing badminton could be interpreted in different contexts (e.g., in terms of exercise, skill, or competition), making it unclear if it directly relates to the specified function for behavior equivalency."
+301,운동 안 하고 게임 해도 미션 같다고 봐줄 거야?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance suggests questioning equivalency of activities but is not explicit about whether it considers gaming as equivalent to exercising.
+302,내가 자전거 타는 거 대신 다른 운동으로 해도 인정해줄까?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The user is asking if they can substitute cycling with another exercise, which aligns with checking mission equivalency, but it's not explicitly clear if they are referring to the specific 'behavior' equivalency type."
+303,줄넘기 하는 걸로 미션 해도 괜찮아?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The phrase '미션 해도 괜찮아?' implies a question about the suitability of the proposed mission, which could lead to various interpretations regarding the specific arguments."
+304,이거 자전거 말고 다른 걸로 바꿔도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance suggests changing an item and could imply checking other types of equivalency beyond just behavior.
+305,헬스 대신 농구 해도 같은 거로 봐주려나?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The intent is somewhat clear, but the specific nature of '헬스' vs '농구' may not directly align with 'behavior' in terms of equivalency."
+306,오늘 자전거 대신 다른 운동 해도 괜찮지?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance suggests a comparison or a query about alternatives, but it does not explicitly confirm the type of behavior or mission equivalency intended."
+307,미션을 다른 운동으로 바꿔도 되냐고!,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",manual_promoted_from_rejected
+308,배드민턴으로 대체해도 인정해줄 건가?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The utterance questions the acceptability of substituting badminton, but does not clearly state intent to check mission equivalency."
+309,혼자서 줄넘기 하면 미션 인정되나?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance implies a question about mission equivalency but does not clearly specify 'behavior' as the intended equivalency type.
+310,이거 다른 운동으로 바꿔줘도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}",The utterance suggests asking for a change in activity but does not explicitly confirm the intention behind 'equivalency_type' which may leave room for interpretation.
+311,농구 대신 자전거 타도 똑같은 거야?,check_mission_equivalency,"{""equivalency_type"": ""behavior""}","The phrase '농구 대신 자전거 타도 똑같은 거야?' suggests a question about equivalency but is not explicit about the type of behavior being referenced, which could lead to different interpretations of 'behavior'."
+312,집에서 해도 미션 인정돼?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance inquires about mission recognition at home, which could imply different interpretations of 'mission' and its conditions."
+313,학교 말고 집에서 해도 괜찮아?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking if it is okay to do something at home instead of school, which aligns with the intent but does not explicitly confirm the need for an equivalency check."
+314,공원 대신 실내에서 해도 되나요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking about performing an activity indoors instead of a park, which suggests a query about place but does not clearly specify 'equivalency'."
+315,미션 장소 바꿔서 집에서 해도 돼?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking if they can change the mission location, which aligns with 'check_mission_equivalency', but it's unclear if they are specifically inquiring about equivalency in terms of place or if there might be other types of equivalency they are considering."
+316,학교가 아닌 집에서 해도 성공인가요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is questioning the success of an activity based on location, which might imply other equivalency types such as 'success criteria', not just 'place'."
+317,밖에서 하는 대신에 실내에서 해도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance implies a preference for indoor versus outdoor location but does not explicitly confirm the intention of checking equivalency, leading to potential ambiguity in understanding the request."
+318,미션 장소를 실내로 바꿔도 성공으로 인정되나요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance is asking if changing the mission location to indoor is accepted as success, but it does not clearly specify the type of equivalency being checked."
+319,집에서 해도 미션 OK인가?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance implies a question about mission equivalency related to location, but '미션 OK인가?' could also be interpreted in a more general sense, leading to ambiguity."
+320,야외는 필요 없고 집에서 해도 될까요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking about the possibility of doing something at home instead of outdoors, but it's unclear if they are directly asking for an equivalency check related to 'place'."
+321,실내에서 해도 미션 인정해줘요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance indicates a question about mission recognition in an indoor setting, but does not explicitly confirm whether the user wants to check for equivalency specifically related to 'place'."
+322,미션 집에서 해도 인정돼?,check_mission_equivalency,"{""equivalency_type"": ""place""}",
+323,실내에서 하면 안 되나?,check_mission_equivalency,"{""equivalency_type"": ""place""}",The utterance questions whether something is permitted indoors but does not explicitly indicate a clear intent to check equivalency type related to 'place'.
+324,오늘은 공원 말고 집에서 해도 될까?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The intention to check equivalency of 'place' is present, but it's unclear if the user is specifically referring to the location of a mission or a general activity at home."
+325,밖에서 아니라도 집에서 하면 되지?,check_mission_equivalency,"{""equivalency_type"": ""place""}",The utterance implies a consideration of location but does not explicitly confirm the 'place' aspect of the equivalency; it could also involve other factors.
+326,실내에서도 미션 성공할 수 있어요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance inquires about mission success indoors, but it doesn't explicitly link to the 'equivalency_type' argument, leading to potential interpretations."
+327,집에서 해도 미션 성공이라고 해줘?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking if completing the mission at home counts as a success, which could imply different equivalency types beyond just 'place'."
+328,야외 말고 실내에서도 되지 않나?,check_mission_equivalency,"{""equivalency_type"": ""place""}",The utterance implies a preference for indoor settings but doesn't explicitly reference checking for equivalence.
+329,공원 대신 집에서 할 수 있을까?,check_mission_equivalency,"{""equivalency_type"": ""place""}",The utterance implies an alternative location but does not explicitly confirm the intention to check for place equivalency.
+330,오늘은 밖에서 못 하는데 집에서 해도 될까요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user expresses uncertainty about performing an activity at home instead of outside, but it's not explicitly clear they are asking about mission equivalency related to the place."
+331,미션 실내에서 해도 괜찮아요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance inquires about the appropriateness of performing a mission indoors, which may imply different factors beyond just the equivalency of place."
+332,오늘 집에서 해도 인정돼?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The phrase '해도 인정돼?' could imply various contexts related to acknowledgment or acceptance, making it unclear if it's specifically about checking the place equivalency."
+333,실내에서 해도 미션 같다고 볼 수 있어?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking about indoor missions but does not specify 'place' explicitly, which could lead to different interpretations of 'equivalency type'."
+334,밖에서 못 하니까 집에서 해도 되냐고!,check_mission_equivalency,"{""equivalency_type"": ""place""}",manual_promoted_from_rejected
+335,공원 대신 집에서 해도 되나?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance suggests confirming if a different location is acceptable, which could relate to other equivalency types beyond 'place'."
+336,여기 집에서 해도 미션 성공할 수 있어요?,check_mission_equivalency,"{""equivalency_type"": ""place""}",manual_promoted_from_rejected
+337,실내에서 하는 것도 마찬가지인가요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The utterance refers to a general situation ('inside'), which could imply checking various types of equivalency, not necessarily limited to 'place'."
+338,오늘은 밖에서 못 하는데 집에서 해도 괜찮지?,check_mission_equivalency,"{""equivalency_type"": ""place""}",
+339,미션 집에서도 해도 돼?,check_mission_equivalency,"{""equivalency_type"": ""place""}",
+340,야외 대신 실내에서도 해도 인정되나요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The user is asking about the acceptability of doing something indoors instead of outdoors, but the specific context of the 'mission' is unclear, which adds ambiguity to the interpretation."
+341,오늘은 집에서 할 수 있어요?,check_mission_equivalency,"{""equivalency_type"": ""place""}","The phrase '집에서 할 수 있어요?' could imply a question about doing something from home, but doesn't explicitly indicate a mission context or that it relates directly to the specified function."
+342,오늘 미션은 아침에 해도 되는 건가요?,check_mission_equivalency,"{""equivalency_type"": ""time""}",The utterance asks about the timing of a mission but does not explicitly confirm intent to check equivalency.
+343,저녁에 운동해도 인정되는지 궁금해요!,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance expresses a desire to know about exercising in the evening but does not explicitly mention 'time' as the equivalency type, leaving room for interpretation."
+344,이 미션 저녁에 해도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance inquires about the possibility of completing a mission in the evening, which aligns with a time equivalency check, but it's not explicit about asking for a verification of the mission's equivalency."
+345,아침 대신 오후에 해도 괜찮은 거 맞죠?,check_mission_equivalency,"{""equivalency_type"": ""time""}",The utterance indicates a question about changing the time of a task but does not explicitly confirm the type of 'time' or the context related to 'check_mission_equivalency'.
+346,미션 시간 변경해도 돼요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance questions whether it's permissible to change the mission time, but it doesn't explicitly indicate a request to check equivalency."
+347,저녁에 하면 불가능한 거 아니지?,check_mission_equivalency,"{""equivalency_type"": ""time""}",The user is asking a question about possibility which may or may not directly relate to checking mission equivalency by time.
+348,이거 오늘 저녁에 해도 인정되나요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance suggests a question about whether a task can be done later (tonight), which aligns with checking time equivalency, but it lacks clear language directly indicating a request for checking equivalency. This creates some ambiguity."
+349,오후에 운동하면 미션 인정돼요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The user is inquiring about the acceptance of a mission based on exercising in the afternoon, which aligns with checking equivalency, but the phrasing does not explicitly confirm the specific argument type 'time'."
+350,미션이 아침에만 가능한 건 아닌가요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance suggests a question about time availability but does not explicitly confirm the intention to check for mission equivalency. It could also be interpreted as a general inquiry about mission availability, leading to ambiguity."
+351,시간 좀 바꿔도 되는지 알고 싶어요,check_mission_equivalency,"{""equivalency_type"": ""time""}",
+352,미션 시간 바꿔도 괜찮아요?,check_mission_equivalency,"{""equivalency_type"": ""time""}",
+353,저녁에 하면 인정되나요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance asks if something is acceptable in the evening, which may suggest a time-related inquiry, but it does not explicitly indicate the intention to check mission equivalency."
+354,아침에 운동 못 하면 저녁에 해도 돼?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance suggests a question about exercise timing, but it could imply different interpretations about the nature of the mission or time equivalency."
+355,이거 시간 좀 조정해도 되는 거죠?,check_mission_equivalency,"{""equivalency_type"": ""time""}",The utterance questions if time adjustments are allowed but does not explicitly confirm intent to check mission equivalency specifically for time.
+356,미션이 꼭 아침이 아니어도 되냐고요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The user is asking whether the mission can take place at times other than morning, but the specific type of equivalency isn't explicitly clear."
+357,시간대를 바꿔서 해도 되나 궁금해요,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance questions the possibility of changing the time zone, which could relate to checking mission equivalency but is not explicitly clear on that intent."
+358,오후에 운동하면 미션 인정돼?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The phrase '미션 인정돼?' could imply various interpretations regarding what constitutes a valid mission, and it's not explicitly clear that the user is asking specifically about the 'time' equivalency type."
+359,이거 시간 바꿔줄 수 있나?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance suggests changing time, but does not explicitly indicate checking mission equivalency."
+360,저녁에 해도 미션 인정해줘요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance expresses a question about mission acceptance based on timing but does not explicitly confirm the intended equivalency type, leading to possible alternative interpretations."
+361,미션 시간 조정해도 되는지 알고 싶어,check_mission_equivalency,"{""equivalency_type"": ""time""}","The user expresses a desire to know if they can adjust the mission time, which somewhat aligns with checking time equivalency, but it could also imply a request for a different aspect related to mission time."
+362,미션 시간 바꿔도 되나?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance asks if it's possible to change the mission time, but it doesn't clearly indicate the need for a check on equivalency."
+363,아침에 하라고 했는데 저녁에 해도 괜찮아요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The user is asking if it is acceptable to change the time from morning to evening, which suggests a possible equivalency but does not explicitly affirm it."
+364,오늘 저녁에 미션 해도 인정돼요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The phrase ""미션 해도 인정돼요?"" does indicate a check on equivalency but does not specify the 'time' aspect clearly, leaving room for interpretation."
+365,이거 시간 좀 조정해줄 수 있어?,check_mission_equivalency,"{""equivalency_type"": ""time""}",The utterance asks for adjusting time but does not explicitly indicate a check of mission equivalency.
+366,점심 대신 저녁에 해도 되는지 궁금해,check_mission_equivalency,"{""equivalency_type"": ""time""}","The phrase '점심 대신 저녁에 해도 되는지' could relate to various types of equivalency, not strictly limited to time."
+367,미션 시간 변경 가능해요?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance asks if it is possible to change the mission time but does not explicitly confirm an intention to check for equivalency, which may lead to different interpretations regarding the specific function being called."
+368,저녁에 해도 미션으로 인정해주나?,check_mission_equivalency,"{""equivalency_type"": ""time""}","The utterance implies a question about mission equivalency regarding time, but it does not clearly indicate if it's specifically about checking equivalency for evening time. The intention could be interpreted in multiple ways."
+369,이번 주 얼마나 했는지 알고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}","The user is asking for a weekly summary, but it's unclear if they mean a complete history or specific details."
+370,주간 기록 좀 보여줘,get_user_history,"{""query_type"": ""weekly_summary""}",
+371,이번 주 몇 번 했는지 확인해줄래?,get_user_history,"{""query_type"": ""weekly_summary""}","The utterance could potentially refer to different types of summaries or histories, such as daily or monthly, which creates some ambiguity in interpreting it as specifically a 'weekly_summary'."
+372,내가 이번 주에 한 거 정리해줄 수 있어?,get_user_history,"{""query_type"": ""weekly_summary""}",
+373,주간 활동 요약 필요해,get_user_history,"{""query_type"": ""weekly_summary""}",
+374,이번 주 기록 대충이나마 보고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}","The phrase '대충이나마' suggests a desire for a summary that may not strictly correlate with a formal weekly summary, leading to potential ambiguity in interpretation."
+375,주간 스케줄 어떻게 됐는지 알려줘,get_user_history,"{""query_type"": ""weekly_summary""}",
+376,이번 주에 뭐 했는지 궁금해,get_user_history,"{""query_type"": ""weekly_summary""}",manual_promoted_from_rejected
+377,내 주간 운동 기록 확인해줄 수 있어?,get_user_history,"{""query_type"": ""weekly_summary""}",
+378,이번 주 몇 개 했는지 좀 체크해줘,get_user_history,"{""query_type"": ""weekly_summary""}",
+379,이번 주에 운동 몇 번 했는지 알고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}","The utterance expresses a desire to know the number of workouts but does not explicitly specify 'weekly summary', leading to potential interpretation as a request for overall workout history."
+380,주간 기록 확인해줄 수 있어?,get_user_history,"{""query_type"": ""weekly_summary""}",
+381,이번 주에 내가 뭘 얼마나 했는지 궁금해,get_user_history,"{""query_type"": ""weekly_summary""}","The utterance expresses curiosity about weekly activity but does not explicitly indicate a request for a summary, leaving room for other interpretations."
+383,이번 주 몇 번 움직였는지 체크해줘,get_user_history,"{""query_type"": ""weekly_summary""}",
+384,나 이번 주 운동한 거 좀 확인하고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}",
+385,이번 주에 운동 결과가 어떻게 돼?,get_user_history,"{""query_type"": ""weekly_summary""}",
+386,내 주간 운동 내역 좀 알고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}",
+387,이번 주 기록 보고 싶어!,get_user_history,"{""query_type"": ""weekly_summary""}",
+388,이번 주에 몇 개 했는지 궁금하다,get_user_history,"{""query_type"": ""weekly_summary""}","The utterance expresses curiosity about the number of activities this week, but it does not explicitly mention a summary or the specific query type required for the function."
+389,이번 주 몇 번 했는지 알고 싶어,get_user_history,"{""query_type"": ""weekly_summary""}",
+390,주간 운동 내역 좀 보여줘요!,get_user_history,"{""query_type"": ""weekly_summary""}",
+391,이번 달 기록 볼 수 있어?,get_user_history,"{""query_type"": ""monthly_summary""}",
+392,내가 이달에 몇 번 했는지 궁금해요,get_user_history,"{""query_type"": ""monthly_summary""}",
+393,이번 달 몇 번 했는지 알려줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+394,이번 달 얼마나 했는지 짧게 알려줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+395,이번 달의 내 기록 보여줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+396,이달에 나의 활동 정리 좀 해줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+397,이번 달은 잘했는지 보고 싶어,get_user_history,"{""query_type"": ""monthly_summary""}",The utterance expresses a desire to check performance but doesn't explicitly state that it pertains to a monthly summary.
+398,얼마나 했는지 이번 달 통계 좀 부탁해,get_user_history,"{""query_type"": ""monthly_summary""}",
+399,이번 달 얼마나 했는지 궁금해 ㅎㅎ,get_user_history,"{""query_type"": ""monthly_summary""}",
+400,내 월간 기록 좀 확인해줄래?,get_user_history,"{""query_type"": ""monthly_summary""}",
+401,이번 달 몇 번 했는지 알려줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+402,이번 달 기록 좀 체크해줄래?,get_user_history,"{""query_type"": ""monthly_summary""}",
+403,이달에 몇 번 운동했는지 궁금해,get_user_history,"{""query_type"": ""monthly_summary""}",
+404,이번 달 내가 얼마나 했는지 보게!,get_user_history,"{""query_type"": ""monthly_summary""}",
+405,이번 달 통계 좀 볼 수 있어?,get_user_history,"{""query_type"": ""monthly_summary""}",
+406,이번 달에는 얼마나 했는지 알고 싶어,get_user_history,"{""query_type"": ""monthly_summary""}",The utterance implies a desire for information but does not explicitly confirm the intention for a monthly summary; it could imply other types of historical data.
+407,내 월간 기록 확인하려고,get_user_history,"{""query_type"": ""monthly_summary""}",
+408,이달 운동한 거 요약해줄 수 있어?,get_user_history,"{""query_type"": ""monthly_summary""}",
+409,이번 달에 내가 한 거 좀 보여줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+410,이달에 내가 얼마나 열심히 했는지 알고 싶어,get_user_history,"{""query_type"": ""monthly_summary""}",
+411,이번 달 운동 기록 좀 알려줘,get_user_history,"{""query_type"": ""monthly_summary""}",
+412,이달에 내가 얼마나 했는지 궁금해,get_user_history,"{""query_type"": ""monthly_summary""}",
+413,이번 달 몇 번 했는지 보고 싶어,get_user_history,"{""query_type"": ""monthly_summary""}",
+414,이번 달에 나의 활동 요약해줄 수 있어?,get_user_history,"{""query_type"": ""monthly_summary""}",
+415,오늘 몇 번 했는지 알려줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks for the number of times something occurred today, but it does not explicitly specify that it pertains to a daily summary, leading to potential confusion."
+416,어제의 기록 좀 봐도 돼?,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks to see records from yesterday but does not explicitly mention a 'daily summary', which could lead to ambiguity in interpreting the type of records requested."
+417,오늘 미션 몇 개 했는지 확인해줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance indicates a request to check the number of missions completed today, but 'daily_summary' may not explicitly denote a count of missions."
+418,내가 어제 뭐 했는지 알고 싶어,get_user_history,"{""query_type"": ""daily_summary""}","The utterance indicates a desire for a summary of yesterday's activities, but it doesn't explicitly match the 'daily_summary' argument since it could be interpreted as a request for detailed history instead."
+419,어제 기록이 궁금해!,get_user_history,"{""query_type"": ""daily_summary""}",The utterance expresses curiosity about a record but does not explicitly indicate a 'daily summary'.
+420,오늘 활동 요약 좀 해줄래?,get_user_history,"{""query_type"": ""daily_summary""}",
+421,어제 몇 번 운동했는지 보고 싶어,get_user_history,"{""query_type"": ""daily_summary""}","The utterance expresses a desire to see exercise history, but it does not explicitly indicate 'daily summary' or state the date, which could lead to different interpretations of timeframes."
+422,어제 한 거 정리해줘,get_user_history,"{""query_type"": ""daily_summary""}",
+423,오늘 한 미션 개수 알려줘,get_user_history,"{""query_type"": ""daily_summary""}",manual_promoted_from_rejected
+424,어제 나 기록 어떻게 되었는지 보여줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance requests to see a record from yesterday, but does not explicitly confirm that it is asking for a 'daily summary', which could lead to different interpretations."
+425,오늘 기록 좀 볼 수 있어?,get_user_history,"{""query_type"": ""daily_summary""}",
+426,어제 내 미션 결과 알려줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks for mission results from yesterday, which aligns with daily summary, but does not explicitly specify 'daily summary,' leading to interpretation as possibly requesting other types of results."
+427,오늘 한 거 요약해줘,get_user_history,"{""query_type"": ""daily_summary""}",
+428,어제 몇 번 했는지 정리해줘,get_user_history,"{""query_type"": ""daily_summary""}",
+429,오늘 한 활동 체크해줄래?,get_user_history,"{""query_type"": ""daily_summary""}",The utterance suggests checking activities but does not explicitly confirm that a daily summary is the intended request; it could imply other types of activity checks.
+430,어제 기록 어떻게 됐어?,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks about a record from yesterday, which could refer to various types of records and not necessarily just a daily summary."
+431,오늘은 내가 얼마나 했는지 보고 싶어,get_user_history,"{""query_type"": ""daily_summary""}","The utterance indicates a desire to see what was done today, but it does not explicitly confirm that a daily summary is intended, leaving some room for interpretation."
+432,어제 나의 미션은 어땠는지 보여줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks for a summary of yesterday's mission, which may not directly align with a 'daily_summary' query; it could imply additional details or different types of information."
+433,어제 했던 것들은 뭐였지?,get_user_history,"{""query_type"": ""daily_summary""}",manual_promoted_from_rejected
+434,오늘 기록 좀 확인해줄 수 있어?,get_user_history,"{""query_type"": ""daily_summary""}","The utterance expresses a general request to check a record, which could relate to various types of summaries."
+435,오늘 내가 한 거 요약해줘,get_user_history,"{""query_type"": ""daily_summary""}",
+436,어제 나의 활동 좀 보여줘,get_user_history,"{""query_type"": ""daily_summary""}",
+437,오늘 기록이 어떻게 되는지 궁금해,get_user_history,"{""query_type"": ""daily_summary""}","The utterance's intention to request a daily summary is implied but not explicitly stated, making it somewhat ambiguous."
+438,어제 미션 다 했는지 확인해줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance requests confirmation of mission completion without explicitly mentioning a daily summary, leading to potential interpretation issues."
+439,내 오늘 활동 내용 알고 싶어,get_user_history,"{""query_type"": ""daily_summary""}","The utterance indicates a desire to know about today's activities but does not explicitly refer to a 'daily summary', leading to potential ambiguity about the specific type of query."
+440,오늘 몇 번 했었는지 체크해봐,get_user_history,"{""query_type"": ""daily_summary""}","The user asks for a check on how many times something was done today, but 'daily_summary' may not fully capture the intent of checking a specific count."
+441,어제 한 일은 뭐였는지 보고 싶어,get_user_history,"{""query_type"": ""daily_summary""}",The user's request for a specific report ('어제 한 일') could imply wanting a different type of summary or information.
+442,오늘 내가 한 거 정리해줄래?,get_user_history,"{""query_type"": ""daily_summary""}",
+443,어제 기록 좀 확인해줄 수 있어?,get_user_history,"{""query_type"": ""daily_summary""}",manual_promoted_from_rejected
+444,오늘 미션 요약해줘,get_user_history,"{""query_type"": ""daily_summary""}","The user is requesting a summary but it's unclear if they mean a daily summary specifically, as the phrase could be interpreted more generally."
+445,오늘 내가 뭘 했는지 알려줘,get_user_history,"{""query_type"": ""daily_summary""}",
+446,어제 내가 한 것 좀 정리해줄래?,get_user_history,"{""query_type"": ""daily_summary""}",
+447,오늘 기록 요약해줄 수 있어?,get_user_history,"{""query_type"": ""daily_summary""}","The utterance asks for a summary, which could relate to various types of summaries (e.g., daily, weekly), not explicitly confirming the intention for a daily summary."
+448,어제 미션 결과 확인해줘,get_user_history,"{""query_type"": ""daily_summary""}","The utterance suggests checking results but does not explicitly refer to a daily summary, which could lead to interpretation as a request for a different type of history or results."
+449,내가 오늘 어떤 거 했는지 체크해줘,get_user_history,"{""query_type"": ""daily_summary""}",
+450,아 잠깐 취소해줘,cancel_mission_action,{},
+451,방금 제출한 거 취소할래요,cancel_mission_action,{},"The utterance indicates a desire to cancel something, but it does not explicitly mention a 'mission' or confirm that it is related to the function call. There could be ambiguity regarding what exactly is being canceled."
+452,미션 취소하고 싶어요ㅎㅎ,cancel_mission_action,{},
+453,그거 그냥 패스할게요,cancel_mission_action,{},"The phrase '그거 그냥 패스할게요' (I will just pass that) indicates a cancellation, but it could also suggest a desire to skip or forgo an action without explicitly stating the need for a mission cancellation."
+454,아 오늘은 취소해줘요,cancel_mission_action,{},
+455,이번 미션 취소할 수 있어?,cancel_mission_action,{},
+456,오늘 못 해서 그냥 내줘,cancel_mission_action,{},"The utterance conveys a desire to cancel or not perform an action but does not explicitly match the function with these specific arguments, leading to potential ambiguity."
+457,할 수 없어서 취소요,cancel_mission_action,{},manual_promoted_from_rejected
+458,이번 건 그냥 취소할게요ㅠ,cancel_mission_action,{},
+459,아 잠깐 미션 취소하자,cancel_mission_action,{},
+460,오늘 미션 그냥 취소할게요,cancel_mission_action,{},
+461,아 잠깐 이거 취소해줘요ㅠ,cancel_mission_action,{},
